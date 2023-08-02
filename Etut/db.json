@@ -1,0 +1,35 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Umut"
+    },
+    {
+      "id": 2,
+      "name": "Emre"
+    },
+    {
+      "id": 3
+    },
+    {
+      "name": "4",
+      "id": 4
+    },
+    {
+      "name": "büşra",
+      "id": 5
+    }
+  ],
+  "lessons": [
+    {
+      "id": 1,
+      "name": "Matematik",
+      "studentId": 1
+    },
+    {
+      "id": 2,
+      "name": "Biyoloji",
+      "studentId": 2
+    }
+  ]
+}
